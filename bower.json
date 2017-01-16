@@ -1,0 +1,34 @@
+{
+  "name": "validate-github-label-name",
+  "description": "Check if a given string is a valid Github issue label name",
+  "keywords": [
+    "github",
+    "label",
+    "issue",
+    "string",
+    "check",
+    "test",
+    "validate",
+    "validation",
+    "validity",
+    "if"
+  ],
+  "main": "module.js",
+  "moduleType": "es6",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/validate-github-label-name.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "coverage",
+    "node_modules"
+  ]
+}
